@@ -1,6 +1,8 @@
 ---
 title: "Reproducible Research - Peer Assessment 1"
+output: html_document
 ---
+
 
   ----
 
@@ -8,7 +10,6 @@ title: "Reproducible Research - Peer Assessment 1"
 ```{r Libraries, echo=TRUE}
     library(lattice)
     library(plyr)
-    library(ggplot2)
 ```  
   
   ----
